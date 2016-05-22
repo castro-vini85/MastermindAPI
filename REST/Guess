@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rest-client version="3.2.2"><request><http-version>1.1</http-version><http-follow-redirects/><URL>http://localhost:51242/api/Guess</URL><method>POST</method><body><string content-type="application/x-www-form-urlencoded" charset="UTF-8">Guess=BYRY&amp;GameId=cabcf3e0a42dea69e7f3cbd9cac1b3d7</string></body></request></rest-client>
